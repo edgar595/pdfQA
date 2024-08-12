@@ -29,7 +29,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://i.ibb.co/qWBwpNb/Photo-logo-5.png">
+        <img src="https://as2.ftcdn.net/v2/jpg/02/10/96/95/1000_F_210969565_cIHkcrIzRpWNZzq8eaQnYotG4pkHh0P9.jpg">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -38,7 +38,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/rdZC7LZ/Photo-logo-1.png">
+        <img src="https://cdn-icons-png.flaticon.com/512/6596/6596121.png">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
